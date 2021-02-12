@@ -1,6 +1,4 @@
-require('dotenv').config()
-
-
+require("dotenv").config();
 
 import _ from "lodash";
 
